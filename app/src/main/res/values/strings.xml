@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyButton</string>
+    <string name="CurentTime">Time ( EST)</string>
+    <string name="CurrentTimeButtonText">UpdateTime</string>
+</resources>

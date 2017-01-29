@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="ibotbuilders">ibotbuildersRobot</string>
+    <string name="MyName">Zhitao Lu</string>
+    <string name="Coach">Coach</string>
+    <string name="showPhotoButtonText">ShowMyPhoto</string>
+</resources>
